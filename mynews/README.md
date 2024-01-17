@@ -1,3 +1,5 @@
+# This was created by Khadijah Rogers using CSS from https://freefrontend.com/css-lists/#google_vignette . The code is a simple way of showing how the to retrieve data from an api without using a key. This will list all the colleges in the United States of America from the API. The api only gives website and college name. This can be useful for students who inspire to go college or want to see what colleges there are in the states . 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
